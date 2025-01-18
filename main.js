@@ -10,4 +10,5 @@ function clock() {
     console.log('as');
 }
 
+clock()
 setInterval(clock, 1000)
